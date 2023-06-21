@@ -1,6 +1,6 @@
 Data Science Project: Predicting the Ideal Price for Airbnb Night Rentals in the South Zone of Rio de Janeiro
 
-Description
+Description:
 This project aims to develop a data science model using the ExtraTrees algorithm to predict the ideal price for daily rentals in Airbnb listings located in the charming South Zone of Rio de Janeiro. By analyzing a variety of variables, such as amenities and location, we seek to provide hosts with an accurate and reliable estimate to determine the appropriate rent amount.
 
 The South Zone of Rio de Janeiro is one of the most attractive regions for tourists and travelers, with its beautiful beaches, stunning landscapes and proximity to iconic sights, such as Christ the Redeemer and Sugarloaf Mountain. However, defining the right price for the daily rental in Airbnb listings can be challenging, as there are several factors that influence the value, such as the number of rooms, proximity to beaches, restaurants and public transport, as well as specific characteristics of the each property.
